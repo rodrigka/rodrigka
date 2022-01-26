@@ -6,8 +6,9 @@
       * AMOA   
       * Any project involving the implementation of software packages (ERP, CRM, MES, etc.)  
       * Any mission with a strong IS orientation.  
-- 📚 The languages I know are : java, SQL, R  
+- 📚 The computer languages I know are : java, SQL, R
 - 🌱 I’m currently learning : HTML, CSS, javascript, and php.
+- 💬 I speak : fluent french, fluent spanish, and english at an intermediate level    
 - 📫 How to reach me :  
       * Tel : 06 25 09 75 18  
       * Email : rodrigka.etudes@gmail.com  
