@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodrigka
-- 👀 I’m interested in information systems, the implementation of software within a company, and the management of IT projects.
+- 👀 I’m interested in information systems, the implementation of company dedicated software, and the management of IT projects.
 - I am currently looking for a work apprenticeship with positions or assignments such as :  
       * IT project assistant  
       * Functional consultant  
